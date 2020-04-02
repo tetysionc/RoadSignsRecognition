@@ -1,5 +1,9 @@
 # How to recognise road signs?
 
-- get data
-- visualise them (optionally)
-- build model (eg in CNN)
+- prepare the environment
+
+- download dataset
+
+- visualise it (optionally)
+
+- build / train model (eg in CNN)
