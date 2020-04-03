@@ -7,3 +7,5 @@
 - visualise it (optionally)
 
 - build / train model (eg in CNN)
+
+- improve quality of model (by data augmentation) (TBD)
